@@ -1,0 +1,275 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+
+    .nav-item a {
+        padding-bottom: 18px;
+        display: inline-block;
+        
+    }
+
+
+
+    .nav-item .btn-sign {
+        display: inline-block;
+    
+    }
+
+    .online-course .row {
+        gap: 30px;
+    }
+
+    .footer-area {
+        text-align: center;
+     
+     }
+     
+     .footer-item .logo-ft {
+        
+         margin-top: 0px;
+     }
+     
+     .footer-area .row {
+         gap: 20px;
+     }
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+
+    .nav-item a {
+        padding-bottom: 18px;
+        display: inline-block;
+        
+    }
+
+
+
+    .nav-item .btn-sign {
+        display: inline-block;
+    
+    }
+
+    .header-lf .btn-sign {
+        margin-bottom: 30px;
+    }
+
+    .online-course .row {
+        gap: 30px;
+    }
+
+    .testimonial-ctn {
+        flex-direction: column;
+    }
+
+
+    .footer-area {
+        text-align: center;
+     
+     }
+     
+     .footer-item .logo-ft {
+        
+         margin-top: 0px;
+     }
+     
+     .footer-area .row {
+         gap: 20px;
+     }
+     
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+    .nav-item a {
+        padding-bottom: 18px;
+        display: inline-block;
+        
+    }
+
+    .nav-item .btn-sign {
+        display: inline-block;
+    
+    }
+
+    .header-lf h1 {
+       font-size: 38px;
+    }
+    
+    .header-lf .h-span {
+        font-size: 38px;
+    }
+    
+
+    .header-lf p {
+        font-size: 14px;
+    }
+
+
+    .header-lf .btn-sign {
+      margin-bottom: 30px;
+    }
+
+    .online-course .row {
+        gap: 30px;
+    }
+
+    .testimonial-ctn {
+        flex-direction: column;
+    }
+
+
+    
+
+.footer-area {
+   text-align: center;
+
+}
+
+.footer-item .logo-ft {
+   
+    margin-top: 0px;
+}
+
+.footer-area .row {
+    gap: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
